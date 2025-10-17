@@ -4,7 +4,7 @@
 ### Índice
 1. Presentación
 2. El Proyecto
-3. etc 
+3. etc
 
 ### El Proyeco
 Este proyecto sirve mucho para principiantes de GitHub para saber que es normal tener fallos a la hora de hacer una web colaborativa.
